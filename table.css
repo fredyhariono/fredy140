@@ -1,0 +1,13 @@
+    table,tr,td{
+    background-color: LightGoldenRodYellow ;
+    color: black;
+    border: 1px solid black;
+    border-collapse: collapse;
+ }
+ .posisi{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 10px;
+    bottom: 0;
+ }
